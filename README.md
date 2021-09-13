@@ -18,6 +18,7 @@
      <h6>Подзаголовок (H5) по левому краю</h6>
         <h1 style="text-align=center">Примеры оформления текста:</h1>
         <h1 style="text-align=center">использование тега <FONT></h1>
-             <p style="font size=:"100"; font color="pink"; font family="Sans-serif"">Шрифт разного размера и цвета и начертания</p>
+             <p style="font size=:100; font color=pink; font family=Sans-serif">Шрифт разного размера и цвета и начертания</p>
+           
    </body>
 </html>
