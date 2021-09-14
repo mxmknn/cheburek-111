@@ -1,3 +1,5 @@
 import "{{ site.theme }}";
 header{display: none;}
-h1{text-align=center;}
+.dolar_po_70_rub{
+text-align=center;
+}
