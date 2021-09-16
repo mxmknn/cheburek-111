@@ -3,3 +3,9 @@ header{display: none;}
 .dolar_po_70_rub{
 text-align=center;
 }
+.right{
+text-align=right;
+}
+.mnogo{
+  font size=:100; font color=pink; font family=Sans-serif;
+}
