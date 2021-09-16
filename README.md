@@ -1,6 +1,6 @@
 
 <html>
-   <link rel="stylesheet" href="style.css1" type="text/css"/>
+   <link rel="stylesheet" href="Style.css" type="text/css"/>
   <body>
     <h1 class="dolar_po_70_rub">
   Примеры оформления текста:
